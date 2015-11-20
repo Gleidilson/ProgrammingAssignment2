@@ -1,6 +1,5 @@
 ##### Programming Assignment 2 #####
 
-
 # The function makeCacheMatrix will create a list wich contains a function to:
 # Set the value of the matrix.
 # Get the value of the matrix.
